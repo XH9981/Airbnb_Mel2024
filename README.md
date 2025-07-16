@@ -17,10 +17,10 @@ This project leverages 2024 Melbourne Airbnb data to provide valuable insights f
 -	Decipher what the key determinants of rental pricing in the Melbourne Airbnb market are
 
 ## File Descriptions <a name="files"></a>
-An accompanying Jupyter notebook is available here to illustrate the analytical process for addressing the questions above. This notebook provides an exploratory dive into the data, with markdown explanations guiding you through the step-by-step reasoning. The dataset link available here.
+An accompanying Jupyter notebook is available here to illustrate the analytical process for addressing the questions above. This notebook provides an exploratory dive into the data, with markdown explanations guiding you through the step-by-step reasoning. The dataset link available [here]().
 
 ## Results <a name="results"></a>
-For a summary of the key insights and results derived from this code, check out the detailed post here.
+For a summary of the key insights and results derived from this code, check out the detailed post [here](https://data.insideairbnb.com/australia/vic/melbourne/2024-12-08/data/listings.csv.gz).
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
